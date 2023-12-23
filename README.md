@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @magnum199
-- 👀 I’m interested in  coding.
 - 🌱 I’m currently learning MEAN fullstack and mobile app development.
 - 💞️ I’m looking to collaborate on MEAN projects and mobile apps projees.
 - 📫 How to reach me: am0821894@gmail.com
