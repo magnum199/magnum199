@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @magnum199
-- 🌱 I’m currently learning MEAN fullstack and mobile app development.
-- 💞️ I’m looking to collaborate on MEAN projects and mobile apps projees.
+- 👋 Hi, I’m Ali
+- Cloud Engineer
+- Expertise in the ff:
+- Terraform
+- Github Actions CI/CD piplines
+- AWS Cloud Infrastructure
+- MEAN fullstack developer
+- mobile app development.
+- Aerospace Engineer
 - 📫 How to reach me: am0821894@gmail.com
 
-<!---
-magnum199/magnum199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
